@@ -1,8 +1,8 @@
 export const skillsData = [
   'HTML',
   'CSS',
-  'Javascript',
-  'Typescript',
+  'JavaScript',
+  'TypeScript',
   'ReactJs',
   'NextJS',
   'Tailwind',
@@ -16,8 +16,6 @@ export const skillsData = [
   'Firebase',
   'MaterialUI',
   'Java',
-  'JavaScript',
-  'TypeScript',
   'Spring',
   'Spring Boot',
   'Spring Cloud',
@@ -26,12 +24,10 @@ export const skillsData = [
   'Monolith',
   'Redux',
   'Kafka',
-  'Git',
   'Leadership',
   'RESTful APIs',
   'GraphQL',
   'Node.js',
-  'Docker',
   'Kubernetes',
   'AWS',
   'Azure',
@@ -40,5 +36,13 @@ export const skillsData = [
   'NoSQL',
   'TDD',
   'Agile',
-  'Scrum'
-]
+  'Scrum',
+  'Java/JEE',
+  'SPRING',
+  'JPA',
+  'Hibernate',
+  'Oracle',
+  'MySQL',
+  'NoSQL',
+  'Framework JSF'
+];

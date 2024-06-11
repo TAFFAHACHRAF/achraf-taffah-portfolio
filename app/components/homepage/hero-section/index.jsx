@@ -30,6 +30,9 @@ function HeroSection() {
             <span className=" text-[#16f2b3]">{personalData.designation}</span>
             .
           </h1>
+          <p className="text-sm text-gray-300 mt-4">
+            Une parfaite maîtrise des technologies suivantes : Java/JEE, SPRING, JPA, Hibernate, Oracle, MySQL, NoSQL, Framework JSF
+          </p>
 
           <div className="my-12 flex items-center gap-5">
             <Link
@@ -130,6 +133,21 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">NodeJs</span>
                 <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">SPRING</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">JPA</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Hibernate</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Oracle</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">MySQL</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">NoSQL</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Framework JSF</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Spring Batch</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">ReactJs</span>
@@ -167,6 +185,8 @@ function HeroSection() {
                 <span className="text-amber-300">Adaptability</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Problem solving</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Java/JEE</span>
                 <span className="text-gray-400">{"']"}</span>
               </div>
               <div>
